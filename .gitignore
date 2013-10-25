@@ -4,6 +4,7 @@
 # Ignore generated files and binaries
 bin/
 gen/
+out/
 *.em
 
 # Ignore editor files
